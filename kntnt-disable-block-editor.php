@@ -2,9 +2,9 @@
 
 /**
  * @wordpress-plugin
- * Plugin Name:       Kntnt Classic Editor
+ * Plugin Name:       Kntnt Disable Block Editor
  * Plugin URI:        https://www.kntnt.com/
- * Description:       Disables the block editor (Gutenberg) and enables the classic editor.
+ * Description:       Disables the block editor "Gutenberg".
  * Version:           1.0.0
  * Author:            Thomas Barregren
  * Author URI:        https://www.kntnt.com/
